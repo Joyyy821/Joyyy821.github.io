@@ -6,7 +6,7 @@ subtitle: Master of Science student in Electronic and Computer Engineering
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>9500 Gilman Dr</p>
