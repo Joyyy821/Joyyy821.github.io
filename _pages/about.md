@@ -17,4 +17,4 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-TODO
+Self-motivated and perceptive master's student with more than 3 years of research experience in robotics. Innovative thinker with enthusiasm for mathematical modeling and real robot application. Proficient coding skills built on well-developed research and course projects. Spread thin into various fields including modular robots, SLAM, motion planning, etc.
