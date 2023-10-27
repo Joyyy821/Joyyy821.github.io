@@ -21,11 +21,21 @@
   "education": [
     {
       "institution": "University of California San Diego, La Jolla, CA",
-      "url": "",
+      "url": "https://ucsd.edu/",
       "area": "Intelligent Systems, Robotics & Control",
       "studyType": "Master of Science",
       "startDate": "2022-09-19",
       "endDate": "2024-07-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The Chinese University of Hong Kong Shenzhen, Shenzhen, China",
+      "url": "https://www.cuhk.edu.cn/en",
+      "area": "Electronic and Information Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01",
       "score": "",
       "courses": []
     }
