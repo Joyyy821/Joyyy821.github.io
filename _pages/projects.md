@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Selected course projects
+description: 
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [Course projects]
 horizontal: false
 ---
 <!-- pages/projects.md -->
