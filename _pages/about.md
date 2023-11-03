@@ -5,7 +5,7 @@ permalink: /
 subtitle: Master of Science student
 
 profile:
-  align: right
+  align: justify
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -21,6 +21,6 @@ Welcome! My name is Yang Jiao. I am a highly driven and insightful student curre
 
 I always feel motivated and thrilled about mathematical modeling and real robot applications. My current research interests revolve around multi-robot systems, Simultaneous Localization and Mapping (SLAM), and motion planning.
 
-I have spent over 3 years immersing myself in the excited field of robotic research. Since October 2022, I've been working in the Cognitive Robotics Lab at UCSD, focusing on an indoor semantic SLAM project. Prior to that, from July 2020 to August 2022, I worked in the Robotics and AI Lab at CUHKSZ, where our research centered on marine robotics and modular robots.
+I have spent over 3 years immersing myself in the excited field of robotic research. Since October 2022, I've been working in the [Cognitive Robotics Lab](https://www.cogrob.org/) at UCSD, focusing on an indoor semantic SLAM project. Prior to that, from July 2020 to August 2022, I worked in the [Robotics &amp; AI Lab](https://crai.cuhk.edu.cn/) at CUHKSZ, where our research centered on marine robotics and modular robots.
 
 I am actively seeking PhD positions at prestigious universities in the US right now. Please feel free to connect with me, explore my research, or discuss collaboration opportunities.
