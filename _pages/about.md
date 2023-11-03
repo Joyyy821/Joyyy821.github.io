@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master of Science student in Electronic and Computer Engineering
+subtitle: Master of Science student
 
 profile:
   align: right
