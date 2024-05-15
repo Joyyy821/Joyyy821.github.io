@@ -17,10 +17,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome! My name is Yang Jiao. I am a highly driven and insightful student currently pursuing my Master's degree in the Department of Electrical and Computer Engineering at UC San Diego, specializing in *Intelligent Systems, Robotics, and Control*. Previously, I completed my Bachelor's degree in *Electronic and Information Engineering* from the Chinese University of Hong Kong, Shenzhen (CUHKSZ) in 2022.
+Welcome! My name is Yang Jiao. I am a highly driven and insightful graduate of the Master's program in the Department of Electrical and Computer Engineering at UC San Diego, with a specialization in *Intelligent Systems, Robotics, and Control*. Previously, I completed my Bachelor's degree in *Electronic and Information Engineering* from the Chinese University of Hong Kong, Shenzhen (CUHKSZ) in 2022.
 
 I always feel motivated and thrilled about mathematical modeling and real robot applications. My current research interests revolve around multi-robot systems, Simultaneous Localization and Mapping (SLAM), and motion planning.
 
-I have spent over 3 years immersing myself in the excited field of robotic research. Since October 2022, I've been working in the [Cognitive Robotics Lab](https://www.cogrob.org/) at UCSD, focusing on an indoor semantic SLAM project. Prior to that, from July 2020 to August 2022, I worked in the [Robotics &amp; AI Lab](https://crai.cuhk.edu.cn/) at CUHKSZ, where our research centered on marine robotics and modular robots.
+I have spent almost 4 years immersing myself in the excited field of robotic research. Since October 2022, I've been working in the [Cognitive Robotics Lab](https://www.cogrob.org/) at UCSD, focusing on an indoor object SLAM project. Prior to that, from July 2020 to August 2022, I worked in the [Robotics &amp; AI Lab](https://crai.cuhk.edu.cn/) at CUHKSZ, where our research centered on marine robotics and modular robots.
 
-I am actively seeking PhD positions at prestigious universities in the US right now. Please feel free to connect with me, explore my research, or discuss collaboration opportunities.
+I am actively seeking RA positions and PhD positions at prestigious universities in the US right now. Please feel free to connect with me, explore my research, or discuss collaboration opportunities!

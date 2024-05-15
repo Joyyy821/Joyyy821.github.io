@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "",
+    "name": "Yang Jiao",
     "label": "",
     "image": "",
-    "email": "",
-    "phone": "",
+    "email": "y4jiao@ucsd.edu",
+    "phone": "(858) 241-9984",
     "url": "",
-    "summary": "",
+    "summary": "A Self-motivated and perceptive master's student with more than 3 years of research experience in robotics.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "address": "3114 3869 Miramar St",
+      "postalCode": "CA 92092",
+      "city": "La Jolla",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": []
   },
