@@ -400,7 +400,7 @@ medium_zoom:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: assets\pdf\CV_joyce_jiao_may_14.pdf # it can also be an url assets/json/resume.json
 jsonresume:
   - basics
   - work
