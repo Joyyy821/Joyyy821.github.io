@@ -3,14 +3,13 @@ layout: page
 title: Particle Filter SLAM
 description: Particle filter SLAM and texture mapping based on differential-drive robot.
 img: assets/img/slam_100particles.gif
-redirect: https://github.com/Joyyy821/pf-slam
 importance: 1
 category: Course projects
 related_publications:
 ---
 This is the project page of my course project in *ECE276A Sensing & Estimation in Robotics* at UC San Diego.
 
-GitHub repo [here](https://github.com/Joyyy821/pf-slam) 
+GitHub repo [here](https://github.com/Joyyy821/pf-slam) (Note: the project repo is **NOT permently public**. It could be set to **private** as required for academic intergrity. This page demostrates some main results from my project.)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

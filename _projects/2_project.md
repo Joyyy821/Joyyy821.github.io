@@ -13,7 +13,7 @@ This is a motion planning repo adopted from HW5 of [CSE276C Mathematics in Robot
 * Probabilistic roadmap (PRM) path planning
 * Rapidly exploring random tree (RRT)
 
-GitHub repo [here](https://github.com/Joyyy821/motion-planning-zoo) (Note: the project repo is **NOT permently public**. It could be set to **private** as required by the course instructor. This page demostrates some main results from my project.)
+GitHub repo [here](https://github.com/Joyyy821/motion-planning-zoo) (Note: the project repo is **NOT permently public**. It could be set to **private** as required for academic intergrity. This page demostrates some main results from my project.)
 
 ## Shortest Path
 
