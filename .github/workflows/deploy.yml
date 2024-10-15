@@ -26,19 +26,26 @@ jobs:
       with:
         ruby-version: '3.2.2'
         bundler-cache: true
-    - name: Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
-        cache: 'pip' # caching pip dependencies
+    # - name: Setup Python
+    #   uses: actions/setup-python@v5
+    #   with:
+    #     python-version: '3.12'
+    #     cache: 'pip' # caching pip dependencies
     - name: Install and Build 🔧
       run: |
-        pip3 install --upgrade jupyter
-        npm install -g mermaid.cli
-        npm install -g purgecss
+        sudo apt-get update
+        sudo apt-get install -y imagemagick
+        pip3 install --upgrade jupyter --break-system-packages
         export JEKYLL_ENV=production
-        bundle exec jekyll build --lsi
-        purgecss -c purgecss.config.js
+        bundle exec jekyll build
+    # - name: Install and Build 🔧
+    #   run: |
+    #     pip3 install --upgrade jupyter
+    #     npm install -g mermaid.cli
+    #     npm install -g purgecss
+    #     export JEKYLL_ENV=production
+    #     bundle exec jekyll build --lsi
+    #     purgecss -c purgecss.config.js
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
